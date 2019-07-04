@@ -1,31 +1,14 @@
-## This can be your internal website page / project page
+## Climber Pro Project
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+  •	Co-developed a virtual reality rock-climbing game, called Climber Pro, for a client – Canadian National Institute for the Blind           (CNIB).
+  •	The game featured accessibility features such as haptic feedback, audio commands and high contrast (7:1 ratio) colors and is geared       for individuals with visual impairments.
+  •	The game was created using Unity Studio.
+  •	Wrote scripts in C# (in Visual Studio) for game functionality.
+  •	Presented the game at CNIB’s Family Fun Day and it garnered media attention from CTV News, which they conducted a story on us   
+  •	Demonstrated leadership, teamwork, creativity and a think out-of-the-box mindset.
+  •	Technologies: Unity, C# and Visual Studio.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+[Link to story](https://regina.ctvnews.ca/visually-impaired-youth-try-out-accessible-virtual-reality-game-1.4438307)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
