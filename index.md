@@ -32,7 +32,7 @@
 ### Other Applications
 
 - [Shopping Cart Application](/shopping-cart_page.md)
-
+- [Customer Accounts WPF Application](/customer-accounts_page.md)
 
 ---
 
