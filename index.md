@@ -5,15 +5,15 @@
 ### Projects 
 
 [Climber Pro - A VR Game for CNIB](/climber-pro_page.md)
-<img src="images/climberpro-logo.jpg?raw=true"/>
+<img src="images/climberpro-logo.jpg?raw=true" width="300" height="300"/>
 
 ---
 [Java Battleship](https://ryanhuber65.github.io/battleship-java/)
-<img src="images/battleship-logo.jpg?raw=true"/>
+<img src="images/battleship-logo.jpg?raw=true" width="300" height="250"/>
 
 ---
 [Programming Dead - A Windows Destop Game](/progdead_page.md)
-<img src="images/progdead-logo.PNG?raw=true"/>
+<img src="images/progdead-logo.PNG?raw=true" width="300" height="200"/>
 
 ---
 
