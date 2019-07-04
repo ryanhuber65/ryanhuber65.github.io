@@ -9,6 +9,8 @@
   - Demonstrated leadership, teamwork, creativity and a think out-of-the-box mindset.
   - **Technologies:** Unity, C# and Visual Studio.
 
-[**Link to story**](https://regina.ctvnews.ca/visually-impaired-youth-try-out-accessible-virtual-reality-game-1.4438307)
+[Link to story](https://regina.ctvnews.ca/visually-impaired-youth-try-out-accessible-virtual-reality-game-1.4438307)
+
+[Link to PowerPoint](/pdf/Climber_Pro.pdf)
 
 
