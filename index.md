@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Climber Pro - A VR Game for CNIB](/climber-pro_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/climberpro-logo.jpg?raw=true"/>
 
 ---
 [Java Battleship](https://ryanhuber65.github.io/battleship-java/)
