@@ -9,7 +9,7 @@
 
 ---
 [Java Battleship](https://ryanhuber65.github.io/battleship-java/)
-<img src="images/battleship-logo.jpg?raw=true" width="300" height="250"/>
+<img src="images/battleship-logo.jpg?raw=true" width="400" height="325"/>
 
 ---
 [Programming Dead - A Windows Destop Game](/progdead_page.md)
