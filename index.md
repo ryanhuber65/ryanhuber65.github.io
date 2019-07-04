@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Java Battleship](/pdf/COMP258_BattleshipReport.pdf)
+[Java Battleship](/pdf/BattleshipReport.pdf)
 <img src="images/battleship-logo.jpg?raw=true"/>
 
 ---
