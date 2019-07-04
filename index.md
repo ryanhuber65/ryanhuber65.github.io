@@ -6,7 +6,7 @@
 
 [Climber Pro - A VR Game for CNIB](/climber-pro_page.md)
 
-<img src="images/climberpro-logo.jpg?raw=true""/>
+<img src="images/climberpro-logo.jpg?raw=true"/>
 
 ---
 [Java Battleship](https://ryanhuber65.github.io/battleship-java/)
