@@ -4,13 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Climber Pro - A VR Game for CNIB](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Java Battleship Report](/pdf/BattleshipReport.pdf)
-
-[Java Battleship Repository](https://ryanhuber65.github.io/battleship-java/)
+[Java Battleship](https://ryanhuber65.github.io/battleship-java/)
 <img src="images/battleship-logo.jpg?raw=true"/>
 
 ---
