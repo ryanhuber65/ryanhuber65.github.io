@@ -26,7 +26,9 @@
 
 ---
 
+### Other Applications
 
+- [Shopping Cart Application](/shopping-cart_page.md)
 
 
 ---
