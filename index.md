@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/COMP258_BattleshipReport.pdf)
+[Java Battleship](/pdf/COMP258_BattleshipReport.pdf)
 <img src="images/battleship-logo.jpg?raw=true"/>
 
 ---
