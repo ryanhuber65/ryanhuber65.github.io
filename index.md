@@ -21,7 +21,7 @@
 
 - [Pet Contacts Storage](/petcontacts_page.md)
 - [URL Service with AsyncTask](/android-urlservice.md)
-- [FCM Notifications and Map Logger](/android-locationfirebase_page.md
+- [FCM Notifications and Map Logger](/android-locationfirebase_page.md)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
