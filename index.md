@@ -10,7 +10,7 @@
 ---
 [Java Battleship Report](/pdf/BattleshipReport.pdf)
 
-[Java Battleship Repository](ryanhuber65.github.io/battleship-java)
+[Java Battleship Repository](https://ryanhuber65.github.io/battleship-java/)
 <img src="images/battleship-logo.jpg?raw=true"/>
 
 ---
