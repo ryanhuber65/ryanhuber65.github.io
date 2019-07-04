@@ -12,8 +12,8 @@
 <img src="images/battleship-logo.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Programming Dead - A Windows Destop Game](/progdead_page.md)
+<img src="images/progdead-logo.PNG?raw=true"/>
 
 ---
 
