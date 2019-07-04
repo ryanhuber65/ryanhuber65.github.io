@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Climber Pro - A VR Game for CNIB](/sample_page)
+[Climber Pro - A VR Game for CNIB](/climber-pro_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
