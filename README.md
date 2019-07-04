@@ -3,7 +3,9 @@
 ___
 
 **This repository contains Ryan Huber's portfolio which includes links to:**
+      
       - Project repositories.
+      
       - Project work (reports, presentations and applications).
       
 ___
