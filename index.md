@@ -14,7 +14,7 @@
 <img src="images/battleship-logo.jpg?raw=true"/>
 
 ---
-[Programming Dead - A Windows Destop Game](/progdead_page.md)
+[Programming Dead - A Windows Desktop Game](/progdead_page.md)
 
 <img src="images/progdead-logo.PNG?raw=true"/>
 
